@@ -1,0 +1,4 @@
+- 👋 Oi, Sou @GeicyRodrigs
+- 👀 Estou interessada em projetos que possam me ajudar a complementar o meu currículo 
+- 🌱 Atualmente estou aprendendo sobre html e css
+- 📫 Entre em contato comigo pelo número (33) 98805-8454
