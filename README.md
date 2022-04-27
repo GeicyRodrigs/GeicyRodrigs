@@ -1,4 +1,4 @@
-- 👋 Olá,  eu sou a Geicilene Rodrigues!
+<h1>Olá, eu sou a Geicilene Rodrigues 👋</h1>
 
 - 👀 Trabalho atualmente como Freelancer em projetos Front-End
 - 🌱 Atualmente estou atualizando sobre SQL 
